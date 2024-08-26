@@ -17,6 +17,11 @@ h1 {
   }
 
 
+  div {
+    background-color: darkcyan;
+    text-align: right;
+ }
+
 
 th, td {
   padding: 8px;
@@ -26,8 +31,3 @@ th, td {
  }
  tr:nth-child(odd) {background-color: #f2f2f2;}
  
-
-div {
-    background-color: darkcyan;
-    text-align: right;
- }
